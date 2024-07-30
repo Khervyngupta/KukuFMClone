@@ -1,0 +1,21 @@
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  
+  .item {
+    flex: 1 1 calc(33.333% - 1rem);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  

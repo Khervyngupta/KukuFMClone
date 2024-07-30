@@ -1,0 +1,9 @@
+.carousel {
+    margin-top: 70px; /* To ensure it is below the header */
+  }
+  
+  .carouselImage {
+    width: 100%;
+    height: auto;
+  }
+  
